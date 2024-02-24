@@ -1,4 +1,4 @@
-# Analytics Data Science Portfolio - Pacmann
+# Analytics Data Science Portfolio by Pacmann
 
 Welcome to my GitHub repository, a comprehensive showcase of my assignments and portfolios developed during my time at the Analytics Data Science program offered by Pacmann. This repository represents a journey through the diverse and intricate landscape of data science, from foundational concepts to advanced applications across various domains.
 

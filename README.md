@@ -16,7 +16,8 @@ This repository is structured into several directories, each representing a spec
 - **Intro ML (Machine Learning)**: Introduction to machine learning concepts and algorithms, including supervised and unsupervised learning techniques.
 - **ML Deployment**: Projects that go beyond model development to include the deployment of machine learning models into production environments.
 - **Credit Scoring**: Projects and assignments aimed at developing models to assess the creditworthiness of individuals or entities.
-- **Marketing and Customer Analytics**: Analysis of customer data to derive insights into customer behavior, segmentation, and targeted marketing strategies.- 
+- **Marketing and Customer Analytics**: Analysis of customer data to derive insights into customer behavior, segmentation, and targeted marketing strategies.
+- **Fraud Analytics**: Projects and assignments focused on the detection, prevention, and mitigation of fraudulent activities using data analytics and machine learning techniques. 
 
 ## Tools and Technologies
 

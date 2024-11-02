@@ -11,13 +11,14 @@ The Analytics Data Science program by Pacmann is designed to equip participants 
 This repository is structured into several directories, each representing a specific area of focus within the program:
 - **Python Basic**: Exercises and projects that cover basic programming concepts in Python, serving as the cornerstone for further exploration into data science.
 - **Probability**: Assignments covering the fundamentals of probability theory, a crucial foundation for statistical inference and modeling.
-- **Data Wrangling SQL**: Exercises focused on cleaning, transforming, and manipulating data using SQL, showcasing the importance of data preparation in the analytics process.
+- **Data Wrangling using SQL**: Exercises focused on cleaning, transforming, and manipulating data using SQL, showcasing the importance of data preparation in the analytics process.
 - **Econometrics (Statistics for Business)**: Studies applying statistical methods to economic data, aiming to give empirical content to economic relations.
-- **Intro ML (Machine Learning)**: Introduction to machine learning concepts and algorithms, including supervised and unsupervised learning techniques.
-- **ML Deployment**: Projects that go beyond model development to include the deployment of machine learning models into production environments.
+- **Introduction to Machine Learning**: Introduction to machine learning concepts and algorithms, including supervised and unsupervised learning techniques.
+- **Machine Learning Deployment**: Projects that go beyond model development to include the deployment of machine learning models into production environments.
 - **Credit Scoring**: Projects and assignments aimed at developing models to assess the creditworthiness of individuals or entities.
 - **Marketing and Customer Analytics**: Analysis of customer data to derive insights into customer behavior, segmentation, and targeted marketing strategies.
-- **Fraud Analytics**: Projects and assignments focused on the detection, prevention, and mitigation of fraudulent activities using data analytics and machine learning techniques. 
+- **Fraud Analytics**: Projects and assignments focused on the detection, prevention, and mitigation of fraudulent activities using data analytics and machine learning techniques.
+- **Causal Inference**: Studies and projects that focus on understanding causal relationships through statistical methods, helping to identify the effects of interventions and treatments in various contexts. 
 
 ## Tools and Technologies
 

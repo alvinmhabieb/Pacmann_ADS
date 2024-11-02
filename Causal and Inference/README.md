@@ -1,4 +1,4 @@
-# Causality
+# Causal and Inference
 My portfolio about Causal Inference in Pacmann.
 
 # Introduction
